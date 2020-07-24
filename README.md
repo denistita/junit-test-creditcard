@@ -2,10 +2,11 @@
 # Task
 Write a program that calculates the Credit Card interest for a Person. Create unit tests for each class using the JUnit 
 testing framework.
-The credit rating for each card is as follows:
+## Credit Rating
 - Visa gets 10% interst
 - MC gets 5% interst
 - Discover gets 1% interest
+
 Each Card type can have multiple cards and there can be multiple Wallets for a Person. NOTE: SIMPLE INTEREST for this test case (means 1 month of interest, if the interest rate is 10% and the amount is 100.00 – interest in this case would be 10.00)
 
 
