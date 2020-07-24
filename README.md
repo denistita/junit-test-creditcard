@@ -1,4 +1,6 @@
-# junit-test-creditcard is a program that calculates Credit Card interest for a Person and create unit tests using your
+# JUnit-Test-Creditcard
+# Task
+<br/>
 favorite testing framework (xUnit, JUnit, NUnit, etc.).
 
 Visa gets 10% MC gets 5% interest Discover gets 1% interest Each Card Type can have multiple cards and there can be multiple Wallets for a Person. NOTE: SIMPLE INTEREST for this test case (means 1 month of interest, if the interest rate is 10% and the amount is 100.00 – interest in this case would be 10.00)
